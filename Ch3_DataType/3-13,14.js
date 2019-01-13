@@ -9,8 +9,9 @@ document.writeln(colorArr[1]);
 document.writeln(colorArr[2]);
 
 /*
-
+배열에 꼭 똑같은 타입의 값을 넣지 않아도 됨
 */
+
 var emptyArr = [];
 document.writeln(emptyArr[0]) ;
 

@@ -6,7 +6,8 @@
             "type": "process",
             "command": "chrome.exe",
             "windows": {
-                "command": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+                //"command": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+                "command": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
             },
             "args": [
                 "${file}"

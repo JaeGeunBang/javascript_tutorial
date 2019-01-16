@@ -23,7 +23,9 @@ console.log(bar.constructor)
 /* 출력값
 Person(name)
 undefined
-Object()undefined
+Object()
+
+undefined
 korea
 Person(name)
 Object()
